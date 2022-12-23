@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snehilagrahari
 - 👀 I’m interested in everything related to web developement.
-- 🌱 I’m currently learning Full Stack Web Development with MERN Stack along with TypeScript.
+- 🌱 I’m currently learning Full Stack Web Development <MERN> along with TypeScript in Masai School.
 - 💞️ I’m looking to collaborate on React TypeScript Projects along with React JavaScript Projects.
 - 📫 How to reach me - You can mail me on sag21062001@outlook.com or connect with me on Linkedin - https://www.linkedin.com/in/snehil-agrahari-996867241 .
 
