@@ -7,7 +7,7 @@
 Project Repos : spiteful-toothbrush-8756(collab.), tame-porter-1759(ind.)
   
   
-  : --- ### :fire: My Stats
+[![Snehil's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehilagrahari)](https://github.com/snehilagrahari/github-readme-stats)
 
 <!---
 snehilagrahari/snehilagrahari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
