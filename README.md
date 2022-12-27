@@ -12,6 +12,8 @@ Project Repos : spiteful-toothbrush-8756(collab.), tame-porter-1759(ind.)
   
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehilagrahari)](https://github.com/snehilagrahari/github-readme-stats)
 
+[![Top Languages](https://github-readme-streak-stats.herokuapp.com/?username=snehilagrahari)]
+
 
 <!---
 snehilagrahari/snehilagrahari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
