@@ -1,3 +1,9 @@
+
+<h1 style="text-align:center;width:'100%';">Snehil Agrahari</h1>
+<hr style="width:100%">
+
+
+
 - 👋 Hi, I’m @snehilagrahari
 - 👀 I’m interested in everything related to web developement.
 - 🌱 I’m currently learning Full Stack Web Development <MERN> along with TypeScript in Masai School.
