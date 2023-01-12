@@ -1,5 +1,8 @@
 
+<div style="background:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8C-CN6BlaylKurrv8b3-HhqILvcwaj0aY8A&usqp=CAU';background-position:center;">
+
 <h1 style="text-align:center;width:'100%';">Snehil Agrahari</h1>
+</div>
 <hr style="width:100%">
 
 
