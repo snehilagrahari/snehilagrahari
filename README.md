@@ -32,6 +32,13 @@
   
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehilagrahari" alt="surajy001" /></a> </p> <br />
   
+  
+  
+  
+  <h2>Github Stats</h2>
+   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=snehilagrahari" alt="Stats" /></p>
+  <br />
+  
   <h2>Connect With Me </h2>
   <br/>
   <p>Click on the Following links to connect with me on the respective platforms.</p>
@@ -40,11 +47,6 @@
   </p>
  
  </br>
-  
-  
-  <h2>Github Stats</h2>
-   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=snehilagrahari" alt="Stats" /></p>
-  <br />
 
 
 
