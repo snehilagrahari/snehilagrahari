@@ -10,7 +10,7 @@
 - Interested in : JavaScript / React / TypeScript / NEXT.js
   
   <h2>Language & Skills</h2>
-  
+  <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/>
@@ -23,20 +23,31 @@
   <img width="100" height="100" src="https://user-images.githubusercontent.com/112304655/209446082-f641ed4d-3480-4b8b-b5ff-cdc28a93890c.svg"/>
   <img width="100" height="100" src="https://user-images.githubusercontent.com/112304655/209447089-14d77899-1cfb-4d60-b96b-7c09d99942dd.svg"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/>
-  <br /><br />
+  </p>
+  <br />
+  
   
   <h2>Github Trophies</h2>
   <br />
   
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehilagrahari" alt="surajy001" /></a> </p> <br />
   
+  <h2>Connect With Me </h2>
+  <br/>
+  <p>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/snehil-agrahari-996867241/) 
+  </p>
+  <p>
+[![GitHub](https://img.shields.io/badge/github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/snehilagrahari)
+  </p>
   
-[![Snehil's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehilagrahari)](https://github.com/snehilagrahari/github-readme-stats)
   
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehilagrahari)](https://github.com/snehilagrahari/github-readme-stats)
+<h2>Github Stats</h2>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=snehilagrahari" alt="Stats" /></p>
+<br />
 
-[![Top Languages](https://github-readme-streak-stats.herokuapp.com/?user=snehilagrahari)](https://github.com/snehilagrahari/github-readme-stats)
+
+
 
 
 <!---
