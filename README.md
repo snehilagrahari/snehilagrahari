@@ -37,7 +37,9 @@
 <h2 align="center">Github Trophies</h2>
 <br />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=snehilagrahari" alt="snehilagrahari" /></a> </p> <br />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=snehilagrahari" alt="snehilagrahari" width='100%' /></a> </p> <br />
+
+
   
   
   
@@ -51,3 +53,5 @@
 <p align="right"><a href="https://linkedin.com/in/www.linkedin.com/in/snehil-agrahari-996867241" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/61/61109.png?w=360" alt="GITHUB" height="50" width="50" /></a> 
 <a href="https://github.com/snehilagrahari" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GITHUB" height="50" width="50" /></a>
 </p>
+
+<img src="https://raw.githubusercontent.com/godkingjay/godkingjay/794176ef118d7303359f8151b8ab718bccafc436/assets/animated-wave.svg" alt="wave" />
