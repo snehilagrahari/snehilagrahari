@@ -25,7 +25,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="100"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="100" height="100"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="100"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="100" height="100"/>
 <img width="100" src="https://user-images.githubusercontent.com/112304655/209446056-f6fa3b7e-c294-4628-8f53-55b36e3bdc7f.svg" height="100"/>
 <img width="100" height="100" src="https://user-images.githubusercontent.com/112304655/209446082-f641ed4d-3480-4b8b-b5ff-cdc28a93890c.svg"/>
 <img width="100" height="100" src="https://user-images.githubusercontent.com/112304655/209447089-14d77899-1cfb-4d60-b96b-7c09d99942dd.svg"/>
