@@ -37,7 +37,7 @@
 <h2 align="center">Github Trophies</h2>
 <br />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=snehilagrahari" alt="snehilagrahari" width='100%' /></a> </p> <br />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=snehilagrahari&margin-w=10" alt="snehilagrahari" width='100%' /></a> </p> <br />
 
 
   
