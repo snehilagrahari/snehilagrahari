@@ -6,7 +6,7 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehilagrahari&label=Profile%20views&color=0e75b6&style=flat" alt="snehilagrahari" /> </p>
+<img align="left" src="https://komarev.com/ghpvc/?username=snehilagrahari&label=Profile%20views&color=0e75b6&style=flat" alt="snehilagrahari" />
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="surajy001" width="300px" height="220px" align="right" /> <br />
 
 - 👋 Hi, I’m Snehil Agrahari
