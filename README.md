@@ -1,4 +1,4 @@
-<img src="https://quixy.com/wp-content/uploads/2020/12/GIFing-you-an-Insight-into-No-Code.png" width="100%" height="300px" alt="Bein Programmer" />
+<img src="https://quixy.com/wp-content/uploads/2020/12/GIFing-you-an-Insight-into-No-Code.png" width="100%" height="260px" alt="Bein Programmer" />
 
 <h1 align="center">Snehil Agrahari</h1>
 
@@ -7,7 +7,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehilagrahari&label=Profile%20views&color=0e75b6&style=flat" alt="snehilagrahari" /> </p>
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="surajy001" width="400" align="right" /> <br />
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="surajy001" width="300px" height="220px" align="right" /> <br />
 
 - 👋 Hi, I’m Snehil Agrahari
 - 👀 I’m interested in everything related to web developement
