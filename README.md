@@ -49,7 +49,7 @@
 <br />
 
 <h4 align="center">Connect With Me </h4>
-<p align="center"><a href="https://linkedin.com/in/www.linkedin.com/in/snehil-agrahari-996867241" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/61/61109.png?w=360" alt="GITHUB" height="50" width="50" /></a> 
+<p align="center"><a href="https://www.linkedin.com/in/snehil-agrahari-996867241" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/61/61109.png?w=360" alt="GITHUB" height="50" width="50" /></a> 
 <a href="https://github.com/snehilagrahari" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GITHUB" height="50" width="50" /></a>
 </p>
 
